@@ -1,0 +1,4 @@
+[submodule "slockmr/Cap_Odoo"]
+	path = slockmr/Cap_Odoo
+	url = git@github.com:slockmr/Cap_Odoo.git
+	branch = Producción
