@@ -2,3 +2,8 @@
 	path = slockmr/Cap_Odoo
 	url = git@github.com:slockmr/Cap_Odoo.git
 	branch = Producción
+
+[submodule "odoo-trainings/kawiil_base"]
+	path = odoo-trainings/kawiil_base
+	url = git@github.com:odoo-trainings/kawiil_base.git
+	branch = 18.0
