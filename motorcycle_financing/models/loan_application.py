@@ -1,4 +1,4 @@
-from odoo import api, fielsd, models
+from odoo import api, fields, models
 
 class LoanApplication(models.Model):
     _name = "loan.application"
